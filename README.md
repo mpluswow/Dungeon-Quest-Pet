@@ -4,9 +4,10 @@ Dungeon Quest Pet created by **Brytenwally** from the [WoW Modding Community](ht
 
 ---
 
-## Original Post:
-> 02/04/2025
+## Original Post 02/04/2025
+  
 > Hey everyone, I created a pet that will give you (hopefully) all the quests for the dungeon that you're in.
+
 > You can also use the attached Excel file to implement **custom quests/zones** for your pet.
 
 ## Instructions:
